@@ -1,4 +1,6 @@
-NAME : UDUTHA RAJU
+Machine Learning lab
+
 ID   : B200865
+NAME : UDUTHA RAJU
 CLASS : CSE -C1
 ROLL NO : 32
